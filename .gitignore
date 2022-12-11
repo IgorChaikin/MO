@@ -1,4 +1,4 @@
 .idea/
 .ipynb_checkpoints/
-LR1/notMNIST_small
-LR1/notMNIST_large
+notMNIST_small/
+notMNIST_large/
